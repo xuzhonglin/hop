@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.pipeline.transform.jdbcmetadata;
+package org.apache.hop.pipeline.transform.jdbcmetadata;
 
 import java.lang.reflect.Method;
 import java.sql.DatabaseMetaData;
@@ -42,7 +42,7 @@ import org.apache.hop.pipeline.transform.TransformMeta;
     id = "JdbcMetadata",
     image = "jdbcmetadata.svg",
     name = "i18n::JdbcMetadata.Name",
-    description = "i18n::JdbcMetaData.Description",
+    description = "i18n::JdbcMetadata.Name.Description",
     categoryDescription = "i18n:org.apache.hop.pipeline.transform:BaseTransform.Category.Utility",
     keywords = "i18n::JdbcMetaData.keyword",
     documentationUrl = "/pipeline/transforms/jdbcmetadata.html")

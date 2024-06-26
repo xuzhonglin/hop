@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.pipeline.transform.jdbcmetadata;
+package org.apache.hop.pipeline.transform.jdbcmetadata;
 
 import java.lang.reflect.Method;
 import java.sql.Connection;
